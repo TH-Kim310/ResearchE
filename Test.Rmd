@@ -21,4 +21,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * git remote add origin https://github.com/TH-Kim310/ResearchE
 * git push --set-upstream origin master
-
+* git push --set-upstream origin main
+* git branch main
