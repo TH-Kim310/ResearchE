@@ -1,0 +1,24 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+* file life cycle
+   * Tracked (A) / Untracked (?) -- Modified / Unmodified
+    
+
+* Tools > version control > project setup > git설정
+* Staged check
+
+* my info configuration
+  * git config --global user.name "th-kim310"
+  * git config --global user.email tete310@Kribb.re.kr
+
+* git remote add origin https://github.com/TH-Kim310/ResearchE
+* git push --set-upstream origin master
+
